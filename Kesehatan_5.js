@@ -1,0 +1,1 @@
+var json_Kesehatan_5 = {"type":"FeatureCollection","name":"Kesehatan_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Nama":"Puskesmas","Kategori":"Fasilitas Kesehatan","Alamat":"Jl. Meranti Raya No.389"},"geometry":{"type":"Point","coordinates":[110.421698234063243,-7.070522344484618]}}]}

@@ -1,0 +1,1 @@
+var json_Gereja_3 = {"type":"FeatureCollection","name":"Gereja_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Nama":"Gereja Katolik Santa Maria Fatima","Kategori":"Gereja","Alamat":"Jl. Kanfer Raya No.49"},"geometry":{"type":"Point","coordinates":[110.425822015641003,-7.071072719659062]}}]}
